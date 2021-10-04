@@ -17,7 +17,7 @@ optional arguments:
 ```
 
 ## Requirements
-* Python 3.8 or greater
+* Python 3.7 or greater
 * samtools 1.10 or greater
 
 ## Installation
